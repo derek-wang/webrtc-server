@@ -1,0 +1,14 @@
+{
+  "name": "videocall",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "2.0.4",
+    "node-static": "0.7.x"
+  },
+  "private": true
+}
